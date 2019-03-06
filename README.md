@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Pages. Leading R beginers to start data manipulation, basic statistics and plotting (in Chinese)
 
 You can use the [editor on GitHub](https://github.com/rededsky/trainningNJU_B117onR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
